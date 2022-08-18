@@ -1,0 +1,5 @@
+type: app
+description: Default stackfile usecase description
+template: burton-stack/dotnet-template
+plugins:
+  - plugin: burton-stack/dotnet-bootstrap-plugin  

@@ -1,0 +1,16 @@
+description: Develop projects quickly, easily and securely.
+name: burton-stack
+display-name: burton-stack
+picture: stack.png
+category: backend
+compatibility:
+  - net5.0
+  - net6.0
+technologies:
+  - C#
+  - .NET
+about: docs/about.md
+use-cases:
+  - title: Burton STACK
+    content: docs/use-case.md
+    stackfile: stackfiles/default.yaml
