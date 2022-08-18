@@ -1,0 +1,3 @@
+[submodule "dotnet-burton-template"]
+	path = dotnet-burton-template
+	url = https://github.com/srburton/dotnet-template.git
