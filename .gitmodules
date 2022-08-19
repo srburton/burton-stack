@@ -1,0 +1,6 @@
+[submodule "dotnet-api-template"]
+	path = dotnet-api-template
+	url = https://github.com/srburton/dotnet-api-template
+[submodule "dotnet-bootstrap-plugin"]
+	path = dotnet-bootstrap-plugin
+	url = https://github.com/srburton/dotnet-bootstrap-plugin
